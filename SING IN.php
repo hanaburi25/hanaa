@@ -39,7 +39,7 @@
                 <label>Password</label>
                 
             </div>
-            <input type="submit" name="" value="Submit">
+            <input type="submit" name="" value="sing in">
         </form>
     </div>
 
